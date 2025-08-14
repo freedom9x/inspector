@@ -16,3 +16,6 @@
 
 # Get started
 App build by  `vite`  with `react`, `typescipt`, `tailwind` , deploy by `vercel`
+> npm run dev
+# Live preview 
+https://inspector-pi.vercel.app/
